@@ -17,6 +17,16 @@ The telecom Retention Manager has scheduled a meeting with the engagement partne
    
 ![image](https://github.com/Orie05/Customer-Churn-analysis/assets/149834782/baded367-3e30-46c7-9ca2-45147a65c322)
 
+## Sample dataset 
+
+![image](https://github.com/Orie05/Customer-Churn-analysis/assets/149834782/bdf822c7-7a99-4e98-98a1-81aac18322bf)
+
+## Data Preprocessing
+- Checked for data types
+- Created the following new measures using DAX to aid analysis
+
+![image](https://github.com/Orie05/Customer-Churn-analysis/assets/149834782/0a88c1b5-ae15-4cab-8bf5-5ec8f8db22ba)
+
 
 ## Key Insights from Dashboard:
 
